@@ -2,6 +2,15 @@
 
 
 
+## v0.4.4 (2023-11-21)
+
+### Fix
+
+* fix(deps): update dependency aiohttp to v3.9.0 (#79)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt; ([`f9c8fd4`](https://github.com/MartinHjelmare/aioopenexchangerates/commit/f9c8fd431d8a9309d420a23eba0f5d6297888021))
+
+
 ## v0.4.3 (2023-10-18)
 
 ### Fix
