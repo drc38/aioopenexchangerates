@@ -2,6 +2,13 @@
 
 
 
+## v0.4.6 (2024-01-19)
+
+### Fix
+
+* fix(deps): update dependency pydantic to v1.10.14 ([`96f05ce`](https://github.com/MartinHjelmare/aioopenexchangerates/commit/96f05ce27b2a4148b281df64a99bc3f7e64432b7))
+
+
 ## v0.4.5 (2023-11-26)
 
 ### Fix
