@@ -2,6 +2,13 @@
 
 
 
+## v0.4.9 (2024-04-03)
+
+### Fix
+
+* fix(deps): update dependency pydantic to v1.10.15 ([`0b713af`](https://github.com/MartinHjelmare/aioopenexchangerates/commit/0b713af86134197b761ac7065419ba086e3cc01e))
+
+
 ## v0.4.8 (2024-01-30)
 
 ### Fix
@@ -84,7 +91,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
 * feat: improve error handling (#23) ([`b03716c`](https://github.com/MartinHjelmare/aioopenexchangerates/commit/b03716cea3494071f387f83ca1c825b1b585906e))
 
 
-## v0.2.0 (2022-07-28)
+## v0.2.0 (2022-07-29)
 
 ### Feature
 
