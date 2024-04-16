@@ -2,6 +2,13 @@
 
 
 
+## v0.4.11 (2024-04-16)
+
+### Fix
+
+* fix(deps): update dependency aiohttp to v3.9.5 ([`98847da`](https://github.com/MartinHjelmare/aioopenexchangerates/commit/98847da59a4342541893d6f760723e8881b12fc5))
+
+
 ## v0.4.10 (2024-04-12)
 
 ### Fix
